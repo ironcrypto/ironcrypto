@@ -29,9 +29,10 @@ Known for my collaborative approach and ability to thrive in challenging environ
 * Analyzed MiFID best execution principles in high-frequency markets using C++ and Java for over 50 different order types. (repo provides a glimpse).
 #### Agent-Based Systems for HFT
 *	Developed systems in Java to study HFT systemic impacts for regulation purposes.
-* You can check this executive deck presenting the PoC-stage project.
+* You can check this [executive deck](https://docs.google.com/presentation/d/18z3DJMzb-s2n1qjosWvpf8pFlWZZZT3ZrMy6_RVm8i8/edit?usp=sharing) presenting the PoC-stage project.
 #### Current Work
 *	Modeling the quantum-chaotic nature of microstructure to refine limit order patterns and maximize MM rebates (work in progress).
+*	Building a na agent-based and RL-based backtesting engine for market-making strategies on digital assets.
 
 
 #### 💻 Languages & Tools
