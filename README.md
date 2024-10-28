@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🏢 **20y-Exp Quant/Quant Dev** | Trading, Research & Execution in TradFi-DeFi | Montreal, Canada
+- 🏢 **20y-Exp Quant/Quant Dev** | Trading, Research & Execution in TradFi-DeFi 
 - 💫 **PhD** | [Mathematical Finance] | Paris Sorbonne, France
 - 🌟 **MSc Economics** | Paris Sorbonne, France
 
