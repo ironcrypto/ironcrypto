@@ -7,7 +7,7 @@
 ### Hi there 👋, I'm Stephan
 
 - 🏢 **20y-Exp Quant/Quant Dev** | Trading, Research & Execution in TradFi-DeFi | Montreal, Canada
-- 💫 **PhD** | [Mathematical Finance](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1375075) | Paris Sorbonne, France
+- 💫 **PhD** | [Mathematical Finance] | Paris Sorbonne, France
 - 🌟 **MSc Economics** | Paris Sorbonne, France
 
 Seasoned financial engineer and product innovator with extensive experience in capital markets and banking. I specialize in agent-based and machine learning applications, with a recent focus on crypto markets and decentralized finance (DeFi) where I have been operating for the last 2.5 years.
