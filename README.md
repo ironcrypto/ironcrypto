@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/scientistno2?label=Follow)](https://twitter.com/scientistno2)>-->
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/ironcrypto/resume/blob/main/Resume_StephanThomas_2024-06.pdf)
 
-### Hi there 👋, I'm Stephan
+### Hi there 👋
 
 - 🏢 **20y-Exp Quant/Quant Dev** | Trading, Research & Execution in TradFi-DeFi | Montreal, Canada
 - 💫 **PhD** | [Mathematical Finance] | Paris Sorbonne, France
@@ -29,7 +29,7 @@ Known for my collaborative approach and ability to thrive in challenging environ
 * Analyzed MiFID best execution principles in high-frequency markets using C++ and Java for over 50 different order types. (repo provides a glimpse).
 #### Agent-Based Systems for HFT
 *	Developed systems in Java to study HFT systemic impacts for regulation purposes.
-* You can check this [executive deck](https://docs.google.com/presentation/d/18z3DJMzb-s2n1qjosWvpf8pFlWZZZT3ZrMy6_RVm8i8/edit?usp=sharing) presenting the PoC-stage project.
+* You can ask me for an [executive deck] presenting the PoC-stage project.
 #### Current Work
 *	Modeling the quantum-chaotic nature of microstructure to refine limit order patterns and maximize MM rebates (work in progress).
 *	Building a na agent-based and RL-based backtesting engine for market-making strategies on digital assets.
