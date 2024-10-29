@@ -10,7 +10,7 @@
 - 💫 **PhD** | [Mathematical Finance] | Paris Sorbonne, France
 - 🌟 **MSc Economics** | Paris Sorbonne, France
 
-Seasoned financial engineer and product innovator with extensive experience in capital markets and banking. I specialize in agent-based and machine learning applications, with a recent focus on crypto markets and decentralized finance (DeFi) where I have been operating for the last 2.5 years.
+Seasoned financial engineer and product innovator with extensive experience in capital markets and banking. I specialize in agent-based and machine learning applications, with a focus on crypto markets and decentralized finance (DeFi) where I have been operating for the last 3 years.
 
 My expertise includes designing and implementing ModelOps platforms, quantitative modeling, trading execution system and leading projects in Model risk management, pricing, and regulatory compliance. As an entrepreneur and R&D leader, I excel in building new business opportunities, managing relationships, and driving innovation. I have a broad network in DeFi, FinTech, and Academia.
 
