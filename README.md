@@ -6,9 +6,8 @@
 
 ### Hi there 👋
 
-- 🏢 **20y-Exp Quant/Quant Dev** | Trading, Research & Execution in TradFi-DeFi 
+- 🏢 **+15y-Exp Quant/Quant Dev** | Trading, Research & Execution in TradFi-DeFi 
 - 💫 **PhD** | [Mathematical Finance] | Paris Sorbonne, France
-- 🌟 **MSc Economics** | Paris Sorbonne, France
 
 Seasoned financial engineer and product innovator with extensive experience in capital markets and banking. I specialize in agent-based and machine learning applications, with a focus on crypto markets and decentralized finance (DeFi) where I have been operating for the last 3 years.
 
@@ -32,7 +31,8 @@ Known for my collaborative approach and ability to thrive in challenging environ
 * You can ask me for an [executive deck] presenting the PoC-stage project.
 #### Current Work
 *	Modeling the quantum-chaotic nature of microstructure to refine limit order patterns and maximize MM rebates (work in progress).
-*	Building a na agent-based and RL-based backtesting engine for market-making strategies on digital assets.
+*	Building an agent-based and RL-based backtesting engine for market-making strategies on digital assets.
+* Testing some MEV ideas related to L2 sequencing
 
 
 #### 💻 Languages & Tools
