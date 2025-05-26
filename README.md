@@ -6,34 +6,14 @@
 
 ### Hi there 👋
 
-- 🏢 **+15y-Exp Quant/Quant Dev** | Trading, Research & Execution in TradFi-DeFi 
+- 🏢 **Quant/Quant Dev/Researcher** | Trading, Research & Execution in TradFi-DeFi 
 - 💫 **PhD** | [Mathematical Finance] | Paris Sorbonne, France
 
-Seasoned financial engineer and product innovator with extensive experience in capital markets and banking. I specialize in agent-based and machine learning applications, with a focus on crypto markets and decentralized finance (DeFi) where I have been operating for the last 3 years.
+I am a T-Shaped problem solver, Quantitative Researcher/Trader with 15+ years of experience designing and deploying systematic
+strategies across crypto, spot and derivatives. Specialized in market microstructure modeling, low-latency execution
+(sub-100µs), and alpha signal development using statistical and machine learning methods.
 
-My expertise includes designing and implementing ModelOps platforms, quantitative modeling, trading execution system and leading projects in Model risk management, pricing, and regulatory compliance. As an entrepreneur and R&D leader, I excel in building new business opportunities, managing relationships, and driving innovation. I have a broad network in DeFi, FinTech, and Academia.
-
-Known for my collaborative approach and ability to thrive in challenging environments, I'm a self-starter, early adopter, and effective communicator. I enjoy exploring new ideas, engaging in debates, and continually learning from others.
-
-#### Background in Microstructure Analysis (theory and practice)
-* Focus on LOB dynamics, market impact models, and TCA.
-#### Key Projects
-* CPO-ed, an AI agent-based platform destined to Quant Dev users to import, build, test, deploy and monitor autonomous agents running on the blockchain (EVM mostly) to execute low to mid-frequency DeFi strategies relying on AI-ML models in a non-custodial way. Led the Quant and Product teams for 2y,  0-to-1, product-market fit and go-to-market
-* Collaborated with Igor Halperin's team and Professor Petter Kolm.
-* Designed an Optimal Order Execution system using RL and MLOps design patterns, aimed at building a trading-as-a-service platform for institutional clients (details available on request).
-*	PO-ed and GTM-ed a ModelOps platform, cloud and open-source based for MLC operationalization for TradFi Institutional clients.
-#### Startup Experience
-* Founded an algo trading tech and research firm.
-*	Built an aggregated order book for Europe's main MTFs, simulating up to 1 million orders/second.
-* Analyzed MiFID best execution principles in high-frequency markets using C++ and Java for over 50 different order types. (repo provides a glimpse).
-#### Agent-Based Systems for HFT
-*	Developed systems in Java to study HFT systemic impacts for regulation purposes.
-* You can ask me for an [executive deck] presenting the PoC-stage project.
-#### Current Work
-*	Modeling the quantum-chaotic nature of microstructure to refine limit order patterns and maximize MM rebates (work in progress).
-*	Building an agent-based and RL-based backtesting engine for market-making strategies on digital assets.
-* Testing some MEV ideas related to L2 sequencing
-
+Currently advancing **MEV**-aware execution frameworks, including **cross-chain atomicity** and PBS **relay coordination**.
 
 #### 💻 Languages & Tools
 <br>
