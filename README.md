@@ -15,7 +15,7 @@ strategies across crypto, spot and derivatives. Specialized in market microstruc
 
 Currently advancing **MEV**-aware execution frameworks, including **cross-chain atomicity** and PBS **relay coordination**.
 
-Also messing around with LLMs, MCPs, vibe coding in Rust.
+Also messing around with LLMs, MCPs, TEEs and regurlaly vibe coding (mostly in Rust now which I find exquisite).
 
 #### 💻 Languages & Tools
 <br>
