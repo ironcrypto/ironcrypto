@@ -4,10 +4,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/scientistno2?label=Follow)](https://twitter.com/scientistno2)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/ironcrypto/resume/blob/main/Resume_StephanThomas_2024-06.pdf)>-->
 
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
+
+
+[📅 Connect](https://cal.com/ironcrypto/secret) • [🌐 Website](https://linktr.ee/satokam) • [📱 Telegram](https://t.me/oneseveno) • [💼 LinkedIn](https://linkedin.com/in/stephanethomassimonpoli)
+
 ### Hi there 👋
 
 - 🏢 **Quant/Quant Dev/Researcher** | Trading, Research & Execution in TradFi-DeFi 
 - 💫 **PhD** | [Mathematical Finance] | Paris Sorbonne, France
+- 📸 **Documentary Photographer**
 
 I am a T-Shaped problem solver, Quantitative Researcher/Trader with 15+ years of experience designing and deploying systematic
 strategies across crypto, spot and derivatives. Specialized in market microstructure modeling, low-latency execution
