@@ -6,8 +6,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ironcrypto&style=plastic&color=blue)
 
-
-[📅 Connect](https://cal.com/ironcrypto/secret) • [🌐 Website](https://linktr.ee/satokam) • [📱 Telegram](https://t.me/oneseveno) • [💼 LinkedIn](https://linkedin.com/in/stephanethomassimonpoli)
+<a href="(https://cal.com/ironcrypto/secret)" target="_blank">
+  <button>Connect</button>
+</a>
+[📅 Connect](https://cal.com/ironcrypto/secret) • [🌍 Website](https://linktr.ee/satokam) • [💬 Telegram](https://t.me/oneseveno) • [💼 LinkedIn](https://linkedin.com/in/stephanethomassimonpoli)
 
 ### Hi there 👋
 
