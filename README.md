@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/scientistno2?label=Follow)](https://twitter.com/scientistno2)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/ironcrypto/resume/blob/main/Resume_StephanThomas_2024-06.pdf)>-->
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=ironcrypto&style=flat-square)
 
 
 [📅 Connect](https://cal.com/ironcrypto/secret) • [🌐 Website](https://linktr.ee/satokam) • [📱 Telegram](https://t.me/oneseveno) • [💼 LinkedIn](https://linkedin.com/in/stephanethomassimonpoli)
