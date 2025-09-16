@@ -19,6 +19,6 @@ I am a T-Shaped problem solver, Quantitative Researcher/Trader with 15+ years of
 strategies across crypto, spot and derivatives. Specialized in market microstructure modeling, low-latency execution
 (sub-100µs), and alpha signal development using statistical and machine learning methods.
 
-Currently advancing **MEV**-aware execution frameworks, including **cross-chain atomicity** and PBS **relay coordination**.
+Currently advancing **CLOB for Perps**, **MEV**-aware execution frameworks, including **cross-chain atomicity** and PBS **relay coordination**.
 
 Also messing around with LLMs, MCPs, TEEs and regularly vibe coding with my often-gibberish friends Jules and Claude (mostly in Rust now which I find exquisite).
