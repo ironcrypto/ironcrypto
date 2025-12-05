@@ -7,6 +7,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ironcrypto&style=plastic&color=blue)
 
 
-[📅 Connect](https://cal.com/ironcrypto/secret) • [🌍 Website](https://linktr.ee/satokam) • [💬 Telegram](https://t.me/oneseveno) • [💼 LinkedIn](https://linkedin.com/in/stephanethomassimonpoli)
+[📅 Connect](https://cal.com/ironcrypto/secret) • [🌍 Website](https://linktr.ee/satokam) • [💬 Telegram](https://t.me/steff_0x) • [💼 LinkedIn](https://linkedin.com/in/stephanethomassimonpoli)
 
 If you feel that you are in competition with anyone, for anything, you are a loser.
